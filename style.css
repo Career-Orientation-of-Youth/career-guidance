@@ -1,0 +1,44 @@
+*{
+    text-decoration:none;
+}
+.navbar{
+    background:rgb(60, 179, 42);font-family:calibri;padding-right:15px;padding-left:15px;
+}
+.navdiv{
+    display:flex;align-items:center;justify-content:space-between;
+}
+.logo a{ 
+    font-size:35px;font-weight:600;color:white;
+}
+li{
+    color:white;font-size:18px;font-weight:bold;margin-right:25px;
+}
+button a{
+    background-color:rgb(216, 35, 65);margin-left:10px;border-radius:10px;padding:10px;width:90px;
+}
+button a{
+    color:white;font-weight:bold;font-size:15px;
+}
+button{
+    background-color:white;
+    color:brown;
+}
+body{
+    background-color:#003049;
+}
+p{
+    color:white;
+}
+h1{
+     text-decoration:underline;
+     text-decoration-color: white;
+}
+.container{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+}
+text{
+    padding:50%
+}
